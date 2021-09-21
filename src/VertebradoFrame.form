@@ -84,8 +84,8 @@
               <StringArray count="4">
                 <StringItem index="0" value="Camello"/>
                 <StringItem index="1" value="Vaca"/>
-                <StringItem index="2" value="Paloma"/>
-                <StringItem index="3" value="Perro"/>
+                <StringItem index="3" value="Paloma"/>
+                <StringItem index="2" value="Perro"/>
               </StringArray>
             </Property>
           </Properties>
